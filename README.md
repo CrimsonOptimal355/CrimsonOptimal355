@@ -45,8 +45,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CrimsonOptimal355&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrimsonOptimal355&layout=compact&theme=radical&hide_border=true&langs_count=6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CrimsonOptimal355&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrimsonOptimal355&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=1800" width="48%" />
 </p>
 
 ---
@@ -55,6 +55,18 @@
 
 <p align="center">
   <a href="https://github.com/CrimsonOptimal355/Chess-CPP-SFML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CrimsonOptimal355&repo=Chess-CPP-SFML&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/Chess--CPP--SFML-C%2B%2B%20%7C%20SFML%203.1%20%7C%20CMake-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  A fully playable two-player chess game built from scratch in C++17 with SFML.<br>
+  Features legal move validation, castling, check/checkmate/stalemate detection,<br>
+  move history in algebraic notation, sound effects, and last-move highlighting.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/CrimsonOptimal355/Chess-CPP-SFML?style=flat-square&color=crimson" />
+  <img src="https://img.shields.io/github/last-commit/CrimsonOptimal355/Chess-CPP-SFML?style=flat-square&color=crimson" />
+  <img src="https://img.shields.io/github/languages/top/CrimsonOptimal355/Chess-CPP-SFML?style=flat-square&color=00599C" />
 </p>
