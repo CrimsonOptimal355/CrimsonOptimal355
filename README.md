@@ -1,4 +1,4 @@
-<h1 align="center">CrimsonOptimal355</h1>
+<h1 align="center">Hey, I'm Sarvesh</h1>
 
 <p align="center">
   First-year BTech student focused on C++, game systems, algorithms, and graphics programming.<br>
