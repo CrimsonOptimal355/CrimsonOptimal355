@@ -42,25 +42,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-249-crimson?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/Total%20PRs-3-blue?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/Total%20Stars-2-yellow?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/Contributed%20To-1%20repo-green?style=flat-square&logo=github"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Most%20Used-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Also%20Uses-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Also%20Uses-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Also%20Uses-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Also%20Uses-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-</p>
-
----
-
 ## Featured Project
 
 <p align="center">
