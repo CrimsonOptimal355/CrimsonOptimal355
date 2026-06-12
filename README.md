@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCrimsonOptimal355&count_bg=%23DC143C&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=true" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=CrimsonOptimal355&label=Profile+Views&color=crimson&style=flat" alt="Profile Views" />
 </p>
 
 ---
