@@ -1,8 +1,7 @@
 <h1 align="center">Hey, I'm Sarvesh</h1>
 
 <p align="center">
-  First-year BTech student focused on C++, game systems, algorithms, and graphics programming.<br>
-  Currently building desktop applications and games using SFML.
+  Second-year BTech student focused on C++, game systems, algorithms, and graphics programming.<br>
 </p>
 
 <p align="center">
@@ -13,8 +12,7 @@
 
 ## About Me
 
-- Building **KnightmareChess** — a full chess game in C++17 with SFML, including a Minimax AI opponent
-- Interested in chess programming and game engine architecture
+- Built **KnightmareChess** — a full chess game in C++17 with SFML, including a Minimax AI opponent
 - Focused on writing clean, efficient C++ code
 - Exploring game AI and algorithmic thinking
 
@@ -35,11 +33,9 @@
 
 ## Currently Exploring
 
-- Chess engine architecture
-- Game AI / Minimax with alpha-beta pruning
+- C++ Programming
 - Data structures & algorithms
-- Graphics programming with SFML
-
+- Graphics programming
 ---
 
 ## Featured Project
