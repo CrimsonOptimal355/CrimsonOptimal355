@@ -13,7 +13,7 @@
 
 ## About Me
 
-- Building **Chess in C++ with SFML** — full move validation, castling, check/checkmate, algebraic notation
+- Building **KnightmareChess** — a full chess game in C++17 with SFML, including a Minimax AI opponent
 - Interested in chess programming and game engine architecture
 - Focused on writing clean, efficient C++ code
 - Exploring game AI and algorithmic thinking
@@ -45,19 +45,19 @@
 ## Featured Project
 
 <p align="center">
-  <a href="https://github.com/CrimsonOptimal355/Chess-CPP-SFML">
-    <img src="https://img.shields.io/badge/Chess--CPP--SFML-C%2B%2B%20%7C%20SFML%203.1%20%7C%20CMake-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <a href="https://github.com/CrimsonOptimal355/KnightmareChess">
+    <img src="https://img.shields.io/badge/KnightmareChess-C%2B%2B%20%7C%20SFML%203.1%20%7C%20CMake-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  A fully playable two-player chess game built from scratch in C++17 with SFML.<br>
-  Features legal move validation, castling, check/checkmate/stalemate detection,<br>
-  move history in algebraic notation, sound effects, and last-move highlighting.
+  A fully playable chess game built from scratch in C++17 with SFML.<br>
+  Features PvP and PvAI modes, legal move validation, castling, check/checkmate/stalemate detection,<br>
+  Minimax AI with alpha-beta pruning, move history in algebraic notation, and sound effects.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/CrimsonOptimal355/Chess-CPP-SFML?style=flat-square&color=crimson" />
-  <img src="https://img.shields.io/github/last-commit/CrimsonOptimal355/Chess-CPP-SFML?style=flat-square&color=crimson" />
-  <img src="https://img.shields.io/github/languages/top/CrimsonOptimal355/Chess-CPP-SFML?style=flat-square&color=00599C" />
+  <img src="https://img.shields.io/github/stars/CrimsonOptimal355/KnightmareChess?style=flat-square&color=crimson" />
+  <img src="https://img.shields.io/github/last-commit/CrimsonOptimal355/KnightmareChess?style=flat-square&color=crimson" />
+  <img src="https://img.shields.io/github/languages/top/CrimsonOptimal355/KnightmareChess?style=flat-square&color=00599C" />
 </p>
